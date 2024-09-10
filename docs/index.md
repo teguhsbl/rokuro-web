@@ -46,19 +46,19 @@ head:
       content: website
   - - meta
     - property: og:title
-      content: Teguh Sabila
+      content: Rokuro Inosuke
   - - meta
     - property: og:image
-      content: https://raw.githubusercontent.com/teguhsbl/teguhsbl.github.io/main/docs/public/banner.jpg
+      content: https://raw.githubusercontent.com/teguhsbl/rokuro-web/main/docs/public/banner.jpg
   - - meta
     - property: og:url
-      content: https://teguhsbl.github.io
+      content: https://rokuro.my.id
   - - meta
     - name: title
-      content: Teguh Sabila
+      content: Rokuro Inosuke
   - - meta
     - name: twitter:card
-      content: https://raw.githubusercontent.com/teguhsbl/teguhsbl.github.io/main/docs/public/banner.jpg
+      content: https://raw.githubusercontent.com/teguhsbl/rokuro-web/main/docs/public/banner.jpg
   - - link
     - rel: icon
       type: image/svg
