@@ -10,11 +10,11 @@ hero:
   tagline: Please follow me on
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/getting-started
+      text: Facebook
+      link: https://www.facebook.com/rokuro.inosuke?mibextid=ZbWKwL
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/teguhsbl
+      text: Youtube
+      link: https://youtube.com/@rokuro04?si=_xKYQldjUvO6VIf8
   image:
     src: /hero.png
     alt: Hero
